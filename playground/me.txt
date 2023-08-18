@@ -1,0 +1,6 @@
+{{#Praxton74}
+Name: Parth Mishra
+Skills: Java, Python, HTML, CSS, Javascript, MySQL, Flask, Django, MongoDB, NodeJs, Machine Learning, Computer Vision, Tensorflow
+RestAPI, Natural Language Processing.
+Email: parthmishra28082002@gmail.com
+{{/Praxton74}}
